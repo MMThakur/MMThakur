@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Manmohan THakur
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning AI data Analysis 
-- 💞️ I’m looking to collaborate on ...open for data analysis project 
-- 📫 manmohan.thakur001@gmail.com
+🌱 I’m currently learning Power BI, Python, SQL, Excel
+
+📫 How to reach me manmohan.thakur001@gmail.com
+
+⚡ Fun fact A US Banking Expert  Turned IT Professional
 
 
 <!---
